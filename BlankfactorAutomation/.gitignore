@@ -11,10 +11,10 @@ blob-report/
 .trace/
 *.zip
 
-# Reports
+# Reports (only inside /reports folder)
 reports/
-*.html
-*.json
+reports/*.html
+reports/*.json
 
 # Logs
 logs/
