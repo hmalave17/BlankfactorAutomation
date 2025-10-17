@@ -40,7 +40,7 @@ Manual_Test/<br>
 ## execution
 **steps to run project :**  
 1. git clone https://github.com/hmalave17/BlankfactorAutomation.git<br>
-2. cd BlankfactorAutomation<br>
+2. cd BlankfactorAutomation/BlankfactorAutomation (**make sure you are located in the root of the automation project**) <br>
 3. open gitbash console
 4. run npm install
 5. npx playwright install
